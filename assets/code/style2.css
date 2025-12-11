@@ -1122,8 +1122,6 @@ font-family: "Opti";
 		animation-direction: alternate;
 		animation-iteration-count: infinite;
 		
-		--specimen-blur: 0;
-    	filter: blur(calc(var(--specimen-blur) * 1px));
 }
 
 .specimen-o {
